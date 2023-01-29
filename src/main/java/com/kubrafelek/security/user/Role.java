@@ -1,4 +1,4 @@
-package com.kubrafelek.security;
+package com.kubrafelek.security.user;
 
 public enum Role {
     USER,

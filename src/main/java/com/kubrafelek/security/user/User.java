@@ -1,5 +1,6 @@
-package com.kubrafelek.security;
+package com.kubrafelek.security.user;
 
+import com.kubrafelek.security.user.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
