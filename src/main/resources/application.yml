@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5433/security
-    username: ...
-    password: ...
+    username: postgres
+    password: kbr.flk88
     driver-class-name: org.postgresql.Driver
   jpa:
     defer-datasource-initialization: true
